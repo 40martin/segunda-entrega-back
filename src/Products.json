@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Hamburguesa",
+    "description": "El sabor de la carne 100% vacuna ",
+    "price": 1000,
+    "thumbnails": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqXzqebG/200/200/original?country=ar",
+    "code": "Hamburguesa clasica",
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Big Mac",
+    "description": " Un sabor único.",
+    "price": 2000,
+    "thumbnails": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqX3vl0y/200/200/original?country=ar",
+    "code": "Hamburguesa2",
+    "stock": 10,
+    "id": 2
+  },
+  {
+    "title": "McFiesta",
+    "description": " mayonesa, lechuga, tomate.",
+    "price": 3000,
+    "thumbnails": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqXakvb9/200/200/original?country=ar",
+    "code": "Hamburguesa3",
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "McNífica",
+    "description": " la McNífica viene a rectificar lo bueno",
+    "price": 4000,
+    "thumbnails": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqXXaUUP/200/200/original?country=ar",
+    "code": "Hamburguesa4",
+    "stock": 20,
+    "id": 4
+  }
+]
